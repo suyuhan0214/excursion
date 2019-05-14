@@ -1,0 +1,15 @@
+/* Global */
+body{
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+header{
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+}
+header a{
+    color: aquamarine;
+    font-size: 16px;
+}
